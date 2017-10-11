@@ -1,0 +1,29 @@
+{
+    "galaxias":[
+        {"id":1,"nombre":"Matematicas","version":1},
+        {"id":2,"nombre":"Español","version":1}
+    ],
+    "sistemas":[
+        {"id":1,"nombre":"Operaciones aritmeticas","galaxiaId":1,"posicionGalaxia":1},        
+        {"id":2,"nombre":"Oraciones","galaxiaId":2,"posicionGalaxia":1}    
+    ],
+    "mundos":[
+        {"id":1,"nombre":"Sumas","sistemaId":1,"posicionSistema":1},
+        {"id":2,"nombre":"Restas","sistemaId":1,"posicionSistema":2},
+        {"id":3,"nombre":"Partes","sistemaId":2,"posicionSistema":1}
+    ],
+    "conceptos":[
+        {"id":1,"concepto":"2","descripcion":"1+1","mundoId":1},
+        {"id":2,"concepto":"3","descripcion":"1+2","mundoId":1},
+        {"id":3,"concepto":"4","descripcion":"1+3","mundoId":1},
+        {"id":4,"concepto":"5","descripcion":"1+4","mundoId":1},
+        {"id":5,"concepto":"6","descripcion":"10-4","mundoId":2},
+        {"id":6,"concepto":"7","descripcion":"10-3","mundoId":2},
+        {"id":7,"concepto":"8","descripcion":"10-2","mundoId":2},
+        {"id":8,"concepto":"9","descripcion":"10-1","mundoId":2},
+        {"id":9,"concepto":"sujeto","descripcion":"Indica quien realiza la acción o de quien se dice algo","mundoId":3},
+        {"id":10,"concepto":"predicado","descripcion":"describe la accion que realiza el sujeto","mundoId":3},
+        {"id":11,"concepto":"verbo","descripcion":"expresa acción, movimiento, existencia, consecución, condición o estado del ujeto","mundoId":3},
+        {"id":12,"concepto":"nucleo del sujeto","descripcion":"es un sustantivo o pronombre","mundoId":3}
+    ]
+}
