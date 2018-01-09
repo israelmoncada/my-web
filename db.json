@@ -22,16 +22,22 @@
         {"id":7,"concepto":"8","descripcion":"10-2","mundoId":2},
         {"id":8,"concepto":"9","descripcion":"10-1","mundoId":2},
         {"id":9,"concepto":"Argumento por analogía","descripcion":"Es aquel que establece una relación entre dos conceptos o cosas diferentes y se deduce que lo que es válido para uno es válido para el otro.","mundoId":3,
-            "imagen":[{"id":1,"concepotoId":9,"tipo":"Imagen","url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C01.png"}]
+            "imagen":[]
         },
         {"id":10,"concepto":"Argumento causal","descripcion":"Establece una relación entre dos hechos, en la cual hay una causa y un efecto.","mundoId":3,
-            "imagen":[{"id":1,"concepotoId":10,"tipo":"Imagen","url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C02.png"}]
+            "imagen":[]
         },
         {"id":11,"concepto":"Argumento de autoridad","descripcion":"Alude a la opinión de expertos en el tema o personajes consagrados para sustentar las ideas.  También se le conoce como magister dixit.","mundoId":3,
-            "imagen":[{"id":1,"concepotoId":11,"tipo":"Imagen","url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C03.png"}]
+            "imagen":[]
         },
         {"id":12,"concepto":"Argumento de ejemplos","descripcion":"Es cuando la persona defiende su conclusión, ejemplificando sus ideas.","mundoId":3,
-            "imagen":[{"id":1,"concepotoId":12,"tipo":"Imagen","url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C04.png"}]
+            "imagen":[]
         }
+    ],
+    "medios":[
+        {"id":1,"concepotoId":9,"tipo":0,"url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C01.png"},
+        {"id":2,"concepotoId":10,"tipo":0,"url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C02.png"},
+        {"id":3,"concepotoId":11,"tipo":0,"url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C03.png"},
+        {"id":4,"concepotoId":12,"tipo":0,"url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C04.png"}
     ]
 }
