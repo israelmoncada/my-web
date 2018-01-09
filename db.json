@@ -5,12 +5,12 @@
     ],
     "sistemas":[
         {"id":1,"nombre":"Operaciones aritmeticas","galaxiaId":1,"posicionGalaxia":1},        
-        {"id":2,"nombre":"Oraciones","galaxiaId":2,"posicionGalaxia":1}    
+        {"id":2,"nombre":"El ensayo","galaxiaId":2,"posicionGalaxia":1}    
     ],
     "mundos":[
         {"id":1,"nombre":"Sumas","sistemaId":1,"posicionSistema":1},
         {"id":2,"nombre":"Restas","sistemaId":1,"posicionSistema":2},
-        {"id":3,"nombre":"Partes","sistemaId":2,"posicionSistema":1}
+        {"id":3,"nombre":"Argumentos I","sistemaId":2,"posicionSistema":1}
     ],
     "conceptos":[
         {"id":1,"concepto":"2","descripcion":"1+1","mundoId":1},
@@ -21,9 +21,17 @@
         {"id":6,"concepto":"7","descripcion":"10-3","mundoId":2},
         {"id":7,"concepto":"8","descripcion":"10-2","mundoId":2},
         {"id":8,"concepto":"9","descripcion":"10-1","mundoId":2},
-        {"id":9,"concepto":"sujeto","descripcion":"Indica quien realiza la acción o de quien se dice algo","mundoId":3},
-        {"id":10,"concepto":"predicado","descripcion":"describe la accion que realiza el sujeto","mundoId":3},
-        {"id":11,"concepto":"verbo","descripcion":"expresa acción, movimiento, existencia, consecución, condición o estado del ujeto","mundoId":3},
-        {"id":12,"concepto":"nucleo del sujeto","descripcion":"es un sustantivo o pronombre","mundoId":3}
+        {"id":9,"concepto":"Argumento por analogía","descripcion":"Es aquel que establece una relación entre dos conceptos o cosas diferentes y se deduce que lo que es válido para uno es válido para el otro.","mundoId":3,
+            "imagen":[{"id":1,"concepotoId":9,"tipo":"Imagen","url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C01.png"}]
+        },
+        {"id":10,"concepto":"Argumento causal","descripcion":"Establece una relación entre dos hechos, en la cual hay una causa y un efecto.","mundoId":3,
+            "imagen":[{"id":1,"concepotoId":10,"tipo":"Imagen","url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C02.png"}]
+        },
+        {"id":11,"concepto":"Argumento de autoridad","descripcion":"Alude a la opinión de expertos en el tema o personajes consagrados para sustentar las ideas.  También se le conoce como magister dixit.","mundoId":3,
+            "imagen":[{"id":1,"concepotoId":11,"tipo":"Imagen","url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C03.png"}]
+        },
+        {"id":12,"concepto":"Argumento de ejemplos","descripcion":"Es cuando la persona defiende su conclusión, ejemplificando sus ideas.","mundoId":3,
+            "imagen":[{"id":1,"concepotoId":12,"tipo":"Imagen","url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C04.png"}]
+        }
     ]
 }
