@@ -35,9 +35,9 @@
         }
     ],
     "medios":[
-        {"id":1,"concepotoId":9,"tipo":0,"url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C01.png"},
-        {"id":2,"concepotoId":10,"tipo":0,"url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C02.png"},
-        {"id":3,"concepotoId":11,"tipo":0,"url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C03.png"},
-        {"id":4,"concepotoId":12,"tipo":0,"url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C04.png"}
+        {"id":1,"conceptoId":9,"tipo":0,"url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C01.png"},
+        {"id":2,"conceptoId":10,"tipo":0,"url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C02.png"},
+        {"id":3,"conceptoId":11,"tipo":0,"url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C03.png"},
+        {"id":4,"conceptoId":12,"tipo":0,"url":"https://raw.githubusercontent.com/israelmoncada/my-web/master/CON_M01_S10_C04.png"}
     ]
 }
